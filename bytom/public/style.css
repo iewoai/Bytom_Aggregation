@@ -1,0 +1,1237 @@
+/* 织梦58（dede58.com）做最好的织梦整站模板下载网站 */
+
+html {
+	font-family: sans-serif
+}
+body {
+	margin: 0
+}
+article, aside, details, figure, footer, header, hgroup, main, nav, section, summary {
+	display: block
+}
+audio, canvas, progress, video {
+	display: inline-block;
+	vertical-align: baseline
+}
+a {
+	background: 0 0
+}
+a:active, a:hover {
+	outline: 0
+}
+h1 {
+	margin: .67em 0;
+	font-size: 2em
+}
+img {
+	border: 0
+}
+td, th {
+	padding: 0
+}
+* {
+	box-sizing: border-box
+}
+html {
+	font-size: 10px;
+}
+body {
+	font-size: 14px;
+	line-height: 1.42857143
+}
+a {
+	text-decoration: none
+}
+a:focus, a:hover {
+	color: #2a6496;
+	text-decoration: underline
+}
+a:focus {
+	outline: thin dotted;
+	outline-offset: -2px
+}
+img {
+	vertical-align: middle
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	color: inherit;
+	font-weight: 500;
+	font-family: inherit;
+	line-height: 1.1
+}
+.h1, h1 {
+	font-size: 36px
+}
+.h2, h2 {
+	font-size: 30px
+}
+.h3, h3 {
+	font-size: 24px
+}
+.h4, h4 {
+	font-size: 18px
+}
+.h5, h5 {
+	font-size: 14px
+}
+.h6, h6 {
+	font-size: 12px
+}
+ol, ul {
+	margin-top: 0;
+	margin-bottom: 10px
+}
+ol ol, ol ul, ul ol, ul ul {
+	margin-bottom: 0
+}
+dl {
+	margin-top: 0;
+	margin-bottom: 20px
+}
+dd, dt {
+	line-height: 1.42857143
+}
+dt {
+	font-weight: 700
+}
+dd {
+	margin-left: 0
+}
+.container {
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 15px;
+	padding-left: 15px
+}
+ @media (min-width:768px) {
+.container {
+	width: 750px
+}
+}
+ @media (min-width:992px) {
+.container {
+	width: 970px
+}
+}
+ @media (min-width:1200px) {
+.container {
+	width: 1170px
+}
+}
+.breadcrumb {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.container:after, .container:before, .modal-footer:after, .modal-footer:before, .nav:after, .nav:before, .row:after, .row:before {
+	display: table;
+	content: " "
+}
+.container:after, .modal-footer:after, .nav:after, .row:after {
+	clear: both
+}
+.show {
+	display: block!important
+}
+body {
+	color: #555;
+	font-family: "Microsoft Yahei"
+}
+dd, dl, dt, ol, ul {
+	margin: 0;
+	padding: 0
+}
+ul {
+	list-style: none
+}
+a {
+	color: #666
+}
+a:hover {
+	text-decoration: none
+}
+.modal-content {
+	border: none;
+	border-radius: 4px
+}
+ @media (min-width:768px) {
+.container {
+	width: auto
+}
+}
+ @media (min-width:992px) {
+.container {
+	width: auto
+}
+}
+ @media (min-width:1200px) {
+.container {
+	width: auto
+}
+}
+body {
+	position: relative;
+	background-color: #f6f6f6
+}
+.container {
+	position: relative;
+	margin: 0 auto;
+	padding: 0;
+	max-width: 1200px
+}
+.header {
+	position: relative;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: 9;
+	padding: 25px 0 20px;
+	border-color: rgba(0,0,0,.08)
+}
+.category-see .header {
+	margin-bottom: 0;
+	border-bottom: none;
+	box-shadow: none
+}
+#homeslider {
+	margin-bottom: 15px
+}
+.content-wrap {
+	float: left;
+	width: 100%
+}
+.content {
+	position: relative;
+	margin-right: 380px;
+	margin-bottom: 15px;
+	padding-top: 15px;
+	min-height: 500px
+}
+.sidebar {
+	position: relative;
+	float: left;
+	margin-left: -360px;
+	padding-top: 15px;
+	width: 360px
+}
+.single .content {
+	padding: 0 20px;
+	border: 1px solid #eaeaea;
+	border-radius: 4px;
+	background-color: #fff
+}
+.logo {
+	float: left;
+	overflow: hidden;
+	margin: 0;
+	width: 150px
+}
+.logo a {
+	display: block;
+	overflow: hidden;
+	height: 32px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	font-family: STHeiti-Light, 'Hiragino Sans GB', 'Microsoft Yahei', Arial
+}
+.brand {
+	position: relative;
+	top: 3px;
+	float: left;
+	overflow: hidden;
+	margin-left: -50px;
+	padding-left: 10px;
+	height: 30px;
+	border-left: 2px solid #eaeaea;
+	color: white;
+	font-size: 20px;
+	
+}
+.relatescom {
+	overflow: hidden;
+	margin-bottom: 0;
+	background-color: #fff
+}
+.relatescom ul {
+	overflow: hidden;
+	padding: 15px 0 0 10px
+}
+.relatescom li {
+	float: left;
+	overflow: hidden;
+	width: 49%;
+	height: 30px;
+	color: #bbb;
+	line-height: 30px;
+	list-style: square inside url('../style/zhiding.gif');
+}
+.relatescom a {
+	margin-right: 20px;
+	padding-left: 0px;
+	color: #444;
+	font-size: 14px
+}
+.nav {
+	float: right;
+	margin-top: 7px;
+	margin-right: -15px;
+	font-size: 18px
+}
+.nav li {
+	position: relative;
+	float: left
+}
+.nav li:hover {
+	z-index: 2
+}
+.nav a {
+	display: block;
+	padding: 0 10px;
+	color: #fff
+}
+.nav a:hover, .nav li.active a:hover, .nav li:hover>a {
+	color: #ddd
+}
+.nav li.active>a {
+	color: #fff
+}
+.nav .fa {
+	width: 18px
+}
+.title {
+	overflow: hidden
+}
+.title h3 {
+	float: left;
+	margin: 0;
+	font-size: 20px
+}
+#comments .msg .msgarticle {
+	color: #666
+}
+#comments .msg .msgarticle .msg {
+	margin-top: 9px;
+	background-color: #f9f9f9
+}
+.xian {
+	border: solid 1px #ccc
+}
+.commentpost label {
+	float: left;
+	clear: left;
+	overflow: hidden;
+	margin: 0;
+	padding: 6px 10px;
+	height: 29px;
+	border-color: #CCC;
+	border-style: solid;
+	border-width: 1px 0 1px 1px;
+	line-height: 15px
+}
+#txaArticle {
+	width: 98%;
+	border: 0
+}
+#comments h3, #comments h4, #comments2 h4 {
+	margin-bottom: 10px;
+	padding-left: 9px;
+	background-color: #f5f5f5;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 30px;
+	border-left-width: 4px;
+	border-left-width: 4px;
+	border-left-style: solid
+}
+#frmSumbit #inpEmail, #frmSumbit #inpHomePage, #frmSumbit #inpName, #frmSumbit #inpVerify {
+	float: left;
+	margin-right: 10px;
+	padding-top: 6px;
+	padding-right: 10px;
+	padding-bottom: 6px;
+	padding-left: 10px;
+	height: 29px;
+	border: 1px solid #ddd;
+	line-height: 15px
+}
+.commentpost {
+	margin-bottom: 15px
+}
+#frmSumbit .button {
+	width: 100px;
+	height: 30px;
+	color: #FFF;
+	border-top-width: 0;
+	border-right-width: 0;
+	border-bottom-width: 0;
+	border-left-width: 0
+}
+.msgtxt .msgarticle {
+	padding-bottom: 4px
+}
+#comments .msg {
+	margin-top: 12px;
+	padding-top: 9px;
+	padding-right: 9px;
+	padding-bottom: 1px;
+	padding-left: 10px;
+	border: 1px dashed #ddd;
+	border-radius: 5px;
+	font-size: 12px;
+	line-height: 22px
+}
+.excerpt {
+	overflow: hidden;
+	margin-bottom: -1px;
+	padding: 20px 20px 20px 20px;
+	border: 1px solid #eaeaea;
+	background-color: #fff
+}
+.excerpt:hover {
+	position: relative;
+	z-index: 2;
+	border-color: #C00;
+	background-color: #FAFDFF
+}
+.excerpt .focus {
+	float: left;
+	margin-left:-200px;
+	width: 100px;
+	margin-top:8px;
+}
+.excerpt .focus img {
+	width: 100px;
+	border-radius:50%;
+	height: 100px
+}
+.excerpt header {
+	margin-bottom: 10px;
+	margin-left:-200px;
+}
+.excerpt .cat {
+	position: relative;
+	top: -3px;
+	display: inline-block;
+	margin-right: 6px;
+	padding: 3px 6px;
+	background-color: #C00;
+	color: #fff;
+	font-size: 12px
+}
+.excerpt .cat:hover {
+	opacity: .85
+}
+.excerpt .cat i {
+	position: absolute;
+	top: 50%;
+	right: -4px;
+	display: inline-block;
+	margin-top: -4px;
+	width: 0;
+	height: 0;
+	border-top: 4px solid transparent;
+	border-bottom: 4px solid transparent;
+	border-left: 4px solid #C00;
+	vertical-align: middle
+}
+.excerpt h2 {
+	display: inline;
+	margin-top: 0;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 28px
+}
+.excerpt h2 a {
+	color: #333
+}
+.excerpt h2 a:hover {
+	color: #C00
+}
+.excerpt .pv, .excerpt time {
+	margin-right: 20px;
+	font-size:15px;
+}
+.excerpt .note {
+	color: #444;
+	word-wrap: break-word;
+	font-size: 14px;
+	line-height: 25px;
+	margin-left:-80px;
+}
+.excerpt .meta {
+	margin-bottom: 10px;
+	color: #999;
+	font-size: 12px;
+	margin-left:-80px;
+}
+.excerpt .note b, .excerpt h2 b {
+	color: #FF5549;
+	font-weight: 400
+}
+.excerpt-see {
+	overflow: hidden;
+	margin-bottom: 15px;
+	padding: 20px;
+	border: 1px solid #eaeaea;
+	border-radius: 4px;
+	background-color: #fff
+}
+.excerpt-see h2 {
+	margin: 0 0 15px;
+	margin-top: 0;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 24px
+}
+.excerpt-see h2 a {
+	color: #333;
+	font-size: 22px
+}
+.excerpt-see h2 a:hover {
+	color: #C00
+}
+.excerpt-see .pv, .excerpt-see time {
+	margin-right: 20px
+}
+.excerpt-see .article-content p {
+	text-indent: 30px
+}
+.excerpt-see .article-content p:last-child {
+	margin-bottom: 0
+}
+.excerpt-see .note {
+	margin-bottom: 0;
+	color: #444;
+	text-indent: 0
+}
+.article-header {
+	margin-bottom: 20px;
+	padding: 25px 0 0px 0;
+	border-bottom: 1px solid #eee;
+	text-align: center
+}
+.article-title {
+	margin-top: 0;
+	color: #333;
+	font-weight: 700;
+	font-size: 40px
+}
+.article-title a, .article-title a:hover {
+	color: #555
+}
+.article-content p {
+	text-indent: 2em;
+	word-wrap: break-word;
+	font-size: 15px;
+	line-height: 25px
+}
+.article-content img {
+	display: block;
+	margin: 5px auto;
+	height: auto!important;
+	max-width: 100%
+}
+.article-content h2, .article-content h3, .article-content h4， .article-content h5 {
+	margin-bottom: 18px;
+	padding: 10px 0;
+	color: #555;
+	font-weight: 700
+}
+.article-content h2 {
+	margin: 18px 0;
+	border-bottom: 1px solid #eaeaea;
+	font-weight: 700;
+	font-size: 18px
+}
+.article-content h3 {
+	font-size: 16px
+}
+.article-content h4 {
+	font-size: 15px
+}
+.article-content h5 {
+	font-size: 14px
+}
+.article-content ol, .article-content ul {
+	margin: 0 0 18px 46px
+}
+.article-content ul {
+	list-style: disc
+}
+.article-content ol {
+	list-style: decimal
+}
+.article-content li {
+	margin-bottom: 6px
+}
+.article-content p {
+	margin-bottom: 18px;
+	color: #333;
+	word-spacing: 10px;
+	word-wrap: break-word
+}
+.article-content table {
+	margin-bottom: 18px;
+	width: 100%;
+	border-top: solid 1px #ddd;
+	border-left: solid 1px #ddd
+}
+.article-content table th {
+	background-color: #f9f9f9;
+	text-align: center
+}
+.article-content table td, .article-content table th {
+	padding: 5px 10px;
+	border-right: solid 1px #ddd;
+	border-bottom: solid 1px #ddd
+}
+.article-content a {
+	text-decoration: underline
+}
+.pagination {
+	padding: 20px;
+	text-align: center;
+	font-size: 12px
+}
+.pagination ul li {
+	float: left;
+	margin: 0 2px;
+	padding: 5px 12px;
+	border-radius: 2px;
+	background-color: #ddd;
+	color: #666;
+	opacity: .88
+}
+.pagination ul {
+	display: inline-block;
+	margin-bottom: 0
+}
+.page {
+	float: left;
+	margin: 0 2px;
+	padding: 5px 12px;
+	border-radius: 2px;
+	background-color: #ddd;
+	color: #666;
+	opacity: .88
+}
+.now-page, .pagination li a:hover {
+	background-color: #C00;
+	color: #FFF;
+	opacity: 1
+}
+.widget {
+	position: relative;
+	clear: both;
+	overflow: hidden;
+	margin-bottom: 15px;
+	border: 1px solid #eaeaea;
+	border-radius: 4px;
+	background-color: #fff
+}
+.widget h3 {
+	margin: 0;
+	padding: 11px 15px 10px;
+	border-bottom: 1px solid #eaeaea;
+	background-color: #fbfbfb;
+	color: #666;
+	font-size: 18px
+}
+.widget .title strong {
+	border-bottom-color: transparent
+}
+.widget ul {
+	margin: 0;
+	padding: 0;
+	list-style: none
+}
+.widget ul ul {
+	border: none
+}
+.widget ul:after, .widget ul:before {
+	display: table;
+	content: "";
+	line-height: 0
+}
+.widget ul:after {
+	clear: both
+}
+.widget_ui_tags .items {
+	overflow: hidden;
+	padding: 15px 0 12px 15px
+}
+#divAuthors li a, #divFavorites li a, #divLinkage li a, #divNavBar li a, #divTags li a, .widget_ui_tags .items a {
+	float: left;
+	overflow: hidden;
+	margin: 0 1% 1% 0;
+	padding: 0 8px;
+	width: 31.3333%;
+	height: 29px;
+	background-color: #f6f6f6;
+	color: #666;
+	font-size: 12px;
+	line-height: 29px
+}
+.widget_ui_tags .items a:hover {
+	background-color: #C00;
+	color: #fff
+}
+#divComments ul li a, .widget_ui_posts li a {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	padding: 10px 15px 10px 15px;
+	border-bottom: solid 1px #eee;
+	color: #666;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 14px
+}
+.footer {
+	position: relative;
+	z-index: 9;
+	clear: both;
+	padding: 20px 20px;
+	border-top: 1px solid #eaeaea;
+	background-color: #333;
+	color: #999;
+	text-align: center;
+	font-size: 12px;
+	line-height: 12px
+}
+.footer a {
+	color: #999
+}
+.footer a:hover {
+	color: #666
+}
+ @media (max-width:1240px) {
+.container {
+	margin: 0 15px
+}
+}
+ @media (max-width:1024px) {
+.content {
+	margin-right: 0
+}
+}
+ @media (max-width:680px) {
+.logo {
+	width: 150px
+}
+.logo a {
+	height: 24px;
+	background-size: 100%
+}
+.nav {
+	margin-top: 0
+}
+}
+ @media (max-width:640px) {
+body {
+	padding-top: 0
+}
+.single {
+	background-color: #fff
+}
+.container {
+	margin: 0 10px
+}
+.single .container {
+	margin: 0;
+	padding: 0 10px
+}
+.header .container {
+	margin: 0;
+	padding: 0 0
+}
+.single .content {
+	padding: 0;
+	border: none
+}
+.article-header {
+	padding: 5px 0 15px 0;
+	text-align: left
+}
+.article-title {
+	margin-bottom: 5px;
+	color: #333;
+	font-weight: 700;
+	font-size: 23px
+}
+.article-content img {
+	border-radius: 5px
+}
+.action-share {
+	display: none
+}
+.article-content {
+	font-size: 15px;
+	line-height: 24px
+}
+.article-content h2 {
+	margin: 15px -10px 15px -10px;
+	padding-left: 10px;
+	border-left: none;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 18px
+}
+.article-content ol, .article-content ul {
+	margin-left: 20px
+}
+.excerpt {
+	padding: 10px 10px 10px 10px
+}
+.excerpt .focus {
+	margin-left: -190px;
+	width: 160px
+}
+.excerpt .focus img {
+	width: 160px;
+	border: 1px solid #CCCCCC;
+	;
+	height: 109px
+	margin-left: -190px;
+}
+.excerpt .cat {
+	display: none
+}
+.excerpt h2 {
+	font-size: 20px;
+	line-height: 22px
+}
+.excerpt-see h2 {
+	font-size: 22px;
+	line-height: 30px
+}
+.header {
+	position: relative;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: 99;
+	padding: 0;
+	text-align: center
+}
+.logo {
+	float: none;
+	margin: 0 auto
+}
+.logo a {
+	height: 42px
+}
+.nav {
+	top: -1620%;
+	right: 0;
+	left: 0;
+	float: none;
+	margin-top: 0;
+	padding: 0 0;
+	text-align: left
+}
+.nav {
+	margin: 0;
+	font-size: 16px;
+	line-height: 32px
+}
+.nav li {
+	float: none;
+	float: left;
+	overflow: hidden;
+	margin-left: 0;
+	width: 33%;
+	text-overflow: ellipsis
+}
+.nav .fa {
+	display: none
+}
+.nav li a {
+	display: block;
+	margin: 0;
+	padding: 0 5px
+}
+.nav li.active a, .nav li.active a:hover {
+	border-bottom: none;
+	background-color: #444;
+	color: #fff
+}
+.title h3 {
+	font-size: 16px
+}
+.footer {
+	padding: 30px 0 20px
+}
+.footer nav {
+	display: none
+}
+.footer {
+	padding: 15px 10px
+}
+.footer .container {
+	overflow: hidden;
+	height: 32px;
+	line-height: 16px
+}
+.footer a:first-child {
+	display: block
+}
+}
+ @media all and (max-width:480px) {
+#homeslider {
+	margin-bottom: 15px
+}
+.relates .sijian554 {
+	display: none
+}
+.excerpt {
+	padding: 10px 10px 10px 10px
+}
+.excerpt .focus {
+	margin-left: -140px;
+	width: 100px
+}
+.excerpt .focus img {
+	width: 100px;
+	border: 1px solid #CCCCCC;
+	;
+	height: 68px
+}
+.excerpt h2 {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	font-size: 17px;
+	font-weight: 400;
+}
+.excerpt h2:before {
+	float: left;
+	width: 5px;
+	content: ""
+}
+.excerpt h2, .excerpt h2:before {
+	height: 42px
+}
+.excerpt h2>:first-child {
+	float: right;
+	margin-left: -5px;
+	width: 100%
+}
+.excerpt h2:after {
+	position: relative;
+	top: -18px;
+	left: 100%;
+	float: right;
+	content: "\02026";
+	text-align: right
+}
+}
+.function {
+	position: relative;
+	clear: both;
+	overflow: hidden;
+	margin-bottom: 15px;
+	border: 1px solid #eaeaea;
+	border-radius: 4px;
+	background-color: #fff
+}
+.function_t {
+	margin: 0;
+	padding: 11px 15px 10px;
+	border-bottom: 1px solid #eaeaea;
+	background-color: #fbfbfb;
+	color: #666;
+	font-size: 18px
+}
+.function_c {
+	padding: 10px
+}
+.items li {
+	list-style: none
+}
+.widget h3 {
+	font-weight: 700
+}
+.listtag {
+	text-align: center;
+	color: #222
+}
+.article-content p {
+	margin-bottom: 15px;
+	color: #404040;
+	font: 18px/32px "Microsoft Yahei"
+}
+#tbCalendar {
+	width: 100%;
+	font-size: 16px
+}
+#divMisc li a {
+	float: left;
+	margin: 5px
+}
+#divCalendar th {
+	height: 26px;
+	border: 1px solid #E0E1E2;
+	background-color: #fbfbfb;
+	color: #555;
+	text-align: center;
+	text-transform: uppercase
+}
+#divCalendar td {
+	width: 47px;
+	height: 30px;
+	border: 1px solid #E0E1E2;
+	text-align: center
+}
+#divComments ul li a {
+	display: block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap
+}
+input[type=text] {
+	width: 65%
+}
+#comment h4, #comments h3 {
+	border-left-color: #C00
+}
+.msgarticle {
+	overflow: hidden;
+	text-overflow: ellipsis
+}
+.relates .sijian554 {
+	float: right;
+}
+.relates .tuijian554 {
+	font-size: 16px;
+	margin-bottom: 5px;
+	display: block;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.cygswtags {
+	list-style: none
+}
+.cygswtags a {
+	float: left;
+	overflow: hidden;
+	margin: 0 1% 1% 0;
+	padding: 0 8px;
+	height: 29px;
+	background-color: #C00;
+	color: #fff;
+	font-size: 12px;
+	line-height: 29px
+}
+.cygswtags a:hover {
+	background-color: #000;
+	font-size: 13px
+}
+.excerpttu {
+	overflow: hidden;
+	margin-bottom: -1px;
+	padding: 20px 20px 20px 20px;
+	border: 1px solid #eaeaea;
+	background-color: #fff;
+}
+#divPrevious ul li a {
+	padding: 10px 15px 10px 15px;
+	color: #666;
+	border-bottom: solid 1px #eee;
+	overflow: hidden;
+	position: relative;
+	display: block;
+	font-size: 14px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+ @media (max-width:800px) {
+.listtag {
+	color: #222;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 26px
+}
+.logo-m {
+	text-align: center;
+	overflow: hidden;
+	font-weight: 400;
+	position: relative;
+	box-shadow: 0 2px 1px rgba(100,100,100,.1);
+}
+.logo-m, .logo-m a {
+	font-size: 25px;
+	display: block;
+	line-height: 50px;/*text-shadow:1px 1px 1px rgba(0,0,0,.25)*/
+}
+.logo-m a {
+	color: #fff;
+	text-decoration: none;
+	font-family: STHeiti-Light, 'Hiragino Sans GB', 'Microsoft Yahei', Arial
+}
+.nav-m {
+	margin-left: -10px;
+	padding: 10px 10px 0;/*background-color:#ececec;box-shadow:inset 0 2px 4px rgba(168,168,168,.5)*/
+}
+.nav-m li {
+	width: 33%;
+	display: inline-block;
+	float: left;
+	position: relative
+}
+.nav-m li a {
+	overflow: hidden;
+	height: 34px;
+	color: #333;
+	display: block;
+	background: linear-gradient(#f4f4f4, #ededed);
+	border: 1px #d7d7d7 solid;
+	box-shadow: 0 2px 1px rgba(100,100,100,.1);
+	margin-left: 10px;
+	margin-bottom: 10px;
+	font-size: 15px;
+	text-decoration: none;
+	position: relative;
+	text-align: center;
+	line-height: 32px;
+	font-family: STHeiti-Light, 'Hiragino Sans GB', 'Microsoft Yahei', Arial;
+}
+.nav-m li a.hover {
+	color: #c00
+}
+.nav-m li.yi-nav-theme-qq a {
+	color: #c00
+}
+.logo {
+	float: none;
+	width: 100%;
+}
+.logo a {
+	display: block;
+	overflow: hidden;
+	height: auto;
+	background-image: none;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	text-indent: 0px;
+}
+.site-navbar li {
+	height: auto;
+}
+.site-navbar {
+	float: none;
+}
+.content {
+	padding-top: 0px;
+}
+.note {
+	display: none;
+
+}
+}
+.tags {
+	border: 1px solid #eaeaea;
+	margin-bottom: 15px;
+	padding: 10px 10px 3px 10px;
+	background-color: #FFFFFF;
+	overflow: hidden;
+}
+
+/*利用class名给框架归类*/
+
+/*小于850px就显示隐藏*/
+
+@media (max-width:850px) {
+.pc {
+	display: none
+}
+}
+
+/*大于850px就显示隐藏*/
+
+@media (min-width:850px) {
+.wap {
+	display: none
+}
+}
+
+
+.header, .excerpt .cat, .now-page, .pagination span:hover, .pagination ul>li>a:focus {
+	background-color: #C00;
+}
+.excerpt:hover {
+	border-color: #C00;
+}
+.excerpt h2 a:hover {
+	color: #C00;
+}
+#comments h4, #comments2 h4 {
+	border-left-color: #C00;
+}
+#frmSumbit input[type="submit"] {
+	background-color: #C00;
+}
+.excerpt-see-index h2 span {
+	color: #C00;
+}
+.logo-m {
+	background: #C00;
+}
+.excerpt {
+	padding: 20px 20px 20px 255px;
+}
+@media (max-width: 640px) {
+.excerpt {
+	padding: 10px 10px 10px 180px;
+}
+}
+@media (max-width: 480px) {
+.excerpt {
+	padding: 10px 10px 0px 120px;
+}
+}
+@media (max-width: 800px) {
+.header {
+	background-color: transparent;
+	padding: 0;
+}
+}
+
+.page{
+  width:35px;
+  height:35px;
+  border:1px solid black;
+  text-align: center;
+  margin:1px;
+  cursor:pointer;
+  background: white;
+}
+a{
+  cursor: pointer;
+}
+
+.next_pre{
+  width:70px;
+}
+
+select{  
+    height:24px;
+    text-align: center;
+    width:70px;
+} 
+#search{
+  margin-left:15px;
+  height:25px;
+
+} 
+#search_btn{
+  margin-left:15px;
+ 
+}
+
+

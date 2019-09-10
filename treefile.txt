@@ -1,0 +1,60 @@
+文件夹 PATH 列表
+卷序列号为 0251-3919
+C:.
+│  treefile.txt
+│  
+└─bytom
+    │  get_data.php
+    │  index.php
+    │  mysql_conn.php
+    │  recommend.php
+    │  search.php
+    │  test.php
+    │  
+    ├─lib
+    │      get_html.php
+    │      mysql_conn.php
+    │      page.php
+    │      recommend.php
+    │      
+    ├─public
+    │      jquery.js
+    │      logo.png
+    │      style.css
+    │      
+    └─python
+        │  dispatcher.py
+        │  
+        ├─lib
+        │  │  dict.txt
+        │  │  jianshu.txt
+        │  │  nlp.py
+        │  │  recommend.py
+        │  │  search.py
+        │  │  setting.py
+        │  │  STOPWORDS.txt
+        │  │  store_data.py
+        │  │  zhifu.txt
+        │  │  __init__.py
+        │  │  
+        │  └─__pycache__
+        │          nlp.cpython-35.pyc
+        │          setting.cpython-35.pyc
+        │          store_data.cpython-35.pyc
+        │          __init__.cpython-35.pyc
+        │          
+        └─spider
+            │  bit.py
+            │  csdn.py
+            │  jianshu.py
+            │  zhifu.py
+            │  __init__.py
+            │  
+            └─__pycache__
+                    bit.cpython-35.pyc
+                    csdn.cpython-35.pyc
+                    jianshu.cpython-35.pyc
+                    setting.cpython-35.pyc
+                    zhifu.cpython-35.pyc
+                    __init__.cpython-35.pyc
+                    
